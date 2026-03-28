@@ -2,6 +2,20 @@
   "dependencies": {
     "@mysten/sui.js": "^0.36.0",
     "@mysten/wallet-kit": "^0.8.6",
-    "@mysten/walrus": "^1.0.1"
-  }
+    "@mysten/walrus": "^1.0.1",
+    "vite": "^8.0.3"
+  },
+  "name": "devconsui_movecodecamp2026_level1_tan",
+  "version": "1.0.0",
+  "description": "## 📌 Project Overview",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
